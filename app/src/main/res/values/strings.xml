@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Crypt0 Track3r</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="details_fragment_title">"Detailed coin~"</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="parsing_data">Parsing data</string>
+    <string name="from_internet">from Internet...</string>
+    <string name="connection_error">Connectivity error. Check your Internet connection.</string>
+    <string name="name">Name: </string>
+    <string name="symbol">Symbol:\u0020</string>
+    <string name="usd_price">USD price:\u0020</string>
+    <string name="hour_change_1">1 hour change:\u0020</string>
+    <string name="hour_change_24">24 hours change:\u0020</string>
+    <string name="days_change_7">7 days change:\u0020</string>
+    <string name="total_supply">Total supply:\u0020</string>
+    <string name="max_supply">Max supply:\u0020</string>
+    <string name="volume">24 hour volume:\u0020</string>
+    <string name="market_cap">Market cap:\u0020</string>
+    <string name="last_30_days">Last 30 days</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="crypto_currency_icon">Crypto currency icon</string>
+    <string name="dollar_sign">$</string>
+    <string name="sign_1h">1H:\u0020</string>
+    <string name="sign_24h">24H:\u0020</string>
+    <string name="sign_7d">7D:\u0020</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+</resources>
+    <!--TODO temporary switched off till stable release of the architecture component.-->
+    <!--TODO move file to navigation directory.-->
+
+<!--<navigation-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--app:startDestination="@id/main_list_fragment">-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/main_list_fragment"-->
+        <!--android:name="dawidzior.crypt0track3r.MainListFragment"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--app:navGraph="@navigation/nav_graph"-->
+        <!--android:label="MainList"-->
+        <!--tools:layout="@layout/second_fragment">-->
+
+        <!--<action-->
+            <!--android:id="@+id/action_list_to_details"-->
+            <!--app:destination="@id/details_fragment"/>-->
+
+    <!--</fragment>-->
+
+    <!--<fragment-->
+        <!--android:id="@+id/details_fragment"-->
+        <!--android:name="dawidzior.crypt0track3r.DetailsFragment"-->
+        <!--android:label="DetailsFragment"/>-->
+
+<!--</navigation>-->

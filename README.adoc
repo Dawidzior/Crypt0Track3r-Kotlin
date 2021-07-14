@@ -1,0 +1,31 @@
+= Crypt0 Track3r
+
+This repository stores the final project in Udacity's Android Nanodegree.
+
+Project Overview
+
+App makes it possible to check crypto currencies value using https://coinmarketcap.com/api/ and https://min-api.cryptocompare.com/ api.
+
+Icons used: https://github.com/atomiclabs/cryptocurrency-icons stored on https://cloudinary.com/.
+
+App uses https://www.google.com/admob/ and https://www.google.com/analytics/.
+
+Navigation architecture component https://developer.android.com/topic/libraries/architecture/navigation/ handles app nav.
+
+FirebaseJobDispatcher https://github.com/firebase/firebase-jobdispatcher-android is responsible for cyclic data update.
+
+Full app architecture (https://developer.android.com/jetpack/docs/guide) is implemented using Room, LiveData, ViewModel, LifecycleObserver and LifecycleOwner.
+
+Why this Project?
+
+In this project, you will demonstrate the skills you've learned in your Nanodegree journey, and apply them to creating a unique app experience of your own. By the end of this project, you will have an app that you can submit to the Google Play Store for distribution.
+
+What Will I Learn?
+
+The Capstone project will give you the experience you need to own the full development cycle of an app.
+
+
+
+:imagesdir: screens
+image::Screenshot_main.png[33%, 33%]
+image::Screenshot_details.png[33%, 33%]
